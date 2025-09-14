@@ -30,6 +30,8 @@ This is an application-based project for a course assignment. It uses deep learn
 2. Generate a User Access Token in Hugging Face.
 
 3. "Run all".
+   
+4. [Model](https://github.com/charrr1103/Assignment-2-AI-Text-Detector/blob/main/Model-Assignment2-group6-Charmaine%20Hooi%20Wai%20Yee.ipynb)
 
 </i>
 
