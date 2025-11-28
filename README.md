@@ -12,6 +12,9 @@
 
 This is an application-based project for a course assignment. It uses deep learning techniques to identify human-generated text and AI-generated text.
 
+**System Design Diagram**
+![System Design Diagram](AI_Text_Detector_System_Design_Diagram.jpg)
+
 ## Setup & Installation
 ### Source Code
 - `Assignment2-group6-Charmaine Hooi Wai Yee.ipynb`
